@@ -1,11 +1,11 @@
 # JSEasy1
 
 
-![[Pasted image 20210327192020.png]]
+![Pasted image 20210327192020.png](./Pasted%20image%2020210327192020.png)
 
 ## View Source
 
-![[Pasted image 20210327192747.png]]
+![Pasted image 20210327192747.png](./Pasted%20image%2020210327192747.png)
 
 ## Function Login
 http://docker.h4x0rbox.com:2010/assests/script.js
